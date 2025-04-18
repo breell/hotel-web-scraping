@@ -1,4 +1,7 @@
 streamlit
-scikit-surprise
-pandas
 numpy
+pandas
+Cython
+scikit-build
+joblib
+scikit-surprise
