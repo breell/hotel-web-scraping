@@ -5,7 +5,7 @@ from surprise.model_selection import train_test_split as surprise_split
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split as sklearn_split
 
-# Title
+# Titleeee
 st.set_page_config(layout="wide")
 st.title('Stays Recommedation System')
 
