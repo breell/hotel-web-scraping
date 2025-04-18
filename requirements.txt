@@ -1,7 +1,8 @@
-streamlit
-numpy
-pandas
+numpy==1.24.4
 Cython
 scikit-build
 joblib
 scikit-surprise
+streamlit
+pandas
+
